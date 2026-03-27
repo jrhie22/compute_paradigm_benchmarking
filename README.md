@@ -61,8 +61,10 @@ From a certain number of iterations (computational cycle), the graph of quantum 
 
 The quantum approach is superior in accuracy-to-energy ratio which makes it suitable for a sustainable path and scalability.
 
-**For Precision: Complex Classical.
-For Sustainability & Scalability: Quantum.**
+**For Precision: Complex Classical.**
+
+
+**For Sustainability & Scalability: Quantum.**
 
 ## Run the Dashboard yourself
 **Installation**
